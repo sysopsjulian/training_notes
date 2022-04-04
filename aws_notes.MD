@@ -38,3 +38,5 @@ Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ t
 Latency routing policy – Use when you have resources in multiple AWS Regions and you want to route traffic to the Region that provides the best latency with less round-trip time. Multivalue answer routing policy – Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random.
 
 Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service that makes it easy for you to run Kubernetes on AWS and on-premises. Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+
+ AWS Serverless Framework is open source software that builds, compiles, and packages code for serverless deployment, and then deploys the package to the cloud. With Python on AWS, for example, Serverless Framework creates the self-contained Python environment, including all dependencies
