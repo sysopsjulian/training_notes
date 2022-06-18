@@ -42,3 +42,5 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  AWS Serverless Framework is open source software that builds, compiles, and packages code for serverless deployment, and then deploys the package to the cloud. With Python on AWS, for example, Serverless Framework creates the self-contained Python environment, including all dependencies
 
  Amazon Aurora Serverless is an on-demand, auto-scaling configuration for Amazon Aurora. It automatically starts up, shuts down, and scales capacity up or down based on your application's needs. It enables you to run your database in the cloud without managing any database capacity.
+
+ DNS is essentially the phonebook of the internet, it translates domain names to IP addresses so browsers can load internet resources.
