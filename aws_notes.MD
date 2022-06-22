@@ -46,3 +46,13 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  DNS is essentially the phonebook of the internet, it translates domain names to IP addresses so browsers can load internet resources.
 
  The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages.
+
+ Some response codes we could get from a Web Application
+ 1xx - Informational responses
+ 2xx - Success
+ 3xx - Redirection
+ 4xx - Client side error
+ 5xx - Server side error.
+
+ What is Vulnerability Assesment compared to Pen testing?
+ Vulnerability assesment is the process of finding flaws, Pen testing is the process of finding vulnerabilites.
