@@ -56,3 +56,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
 
  What is Vulnerability Assesment compared to Pen testing?
  Vulnerability assesment is the process of finding flaws, Pen testing is the process of finding vulnerabilites.
+
+ AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
+ 
