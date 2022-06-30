@@ -60,3 +60,5 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  AWS Control Tower is a service that enables you to enforce and manage governance rules for security, operations, and compliance at scale across all your organizations and accounts in the AWS Cloud.
 
  AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS and third-party resources, and provision and manage them in an orderly and predictable fashion.
+
+ AWS Migration Hub is the one destination for cloud migration and modernization, giving you the tools you need to accelerate and simplify your journey with AWS. Perhaps you're making the case for cloud within your organization, or creating a data-driven inventory of existing IT assets.
