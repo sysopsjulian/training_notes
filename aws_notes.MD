@@ -64,3 +64,5 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  AWS Migration Hub is the one destination for cloud migration and modernization, giving you the tools you need to accelerate and simplify your journey with AWS. Perhaps you're making the case for cloud within your organization, or creating a data-driven inventory of existing IT assets.
 
  Active Directory stores information about objects on the network and makes this information easy for administrators and users to find and use. Active Directory uses a structured data store as the basis for a logical, hierarchical organization of directory information.
+
+ AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps required to release your software.
