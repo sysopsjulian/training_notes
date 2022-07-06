@@ -66,3 +66,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  Active Directory stores information about objects on the network and makes this information easy for administrators and users to find and use. Active Directory uses a structured data store as the basis for a logical, hierarchical organization of directory information.
 
  AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps required to release your software.
+
+ Application Load Balancer (ALB) is a fully managed layer 7 load balancing service that load balances incoming traffic across multiple targets, such as Amazon EC2 instances.
+ 
