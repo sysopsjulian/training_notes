@@ -68,4 +68,6 @@ Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service t
  AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps required to release your software.
 
  Application Load Balancer (ALB) is a fully managed layer 7 load balancing service that load balances incoming traffic across multiple targets, such as Amazon EC2 instances.
+
+ Amazon Elastic Container Service (ECS) is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon Elastic Compute Cloud (Amazon EC2) instances.
  
