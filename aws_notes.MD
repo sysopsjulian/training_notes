@@ -88,3 +88,5 @@ Amazon Redshift Serverless (preview) is a serverless option of Amazon Redshift t
 The AWS Snow Family is a collection of physical devices that help migrate large amounts of data into and out of the cloud without depending on networks. This helps you apply the wide variety of AWS services for analytics, file systems, and archives to your data.
 
 Wavelength Zones are AWS infrastructure deployments that embed AWS compute and storage services within telecommunications providers' data centers at the edge of the 5G network, so application traffic can reach application servers running in Wavelength Zones without leaving the mobile providers' network.
+
+AWS Global Accelerator simplifies global traffic management by providing 2 static anycast IP addresses that only need to be configured by users once. Behind these IP address you can add or remove AWS origins, opening up uses such as endpoint failover, scaling, or testing without any user-side changes.
