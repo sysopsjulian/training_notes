@@ -92,3 +92,5 @@ Wavelength Zones are AWS infrastructure deployments that embed AWS compute and s
 AWS Global Accelerator simplifies global traffic management by providing 2 static anycast IP addresses that only need to be configured by users once. Behind these IP address you can add or remove AWS origins, opening up uses such as endpoint failover, scaling, or testing without any user-side changes.
 
 AWS PrivateLink provides private connectivity between VPCs, AWS services, and your on-premises networks, without exposing your traffic to the public internet. AWS PrivateLink makes it easy to connect services across different accounts and VPCs to significantly simplify your network architecture.
+
+Interface VPC endpoints support traffic only over TCP. AWS services accept connection requests automatically. The service can't initiate requests to resources in your VPC through the VPC endpoint. The endpoint only returns responses to traffic that was initiated by resources in your VPC.
