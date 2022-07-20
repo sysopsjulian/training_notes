@@ -94,3 +94,5 @@ AWS Global Accelerator simplifies global traffic management by providing 2 stati
 AWS PrivateLink provides private connectivity between VPCs, AWS services, and your on-premises networks, without exposing your traffic to the public internet. AWS PrivateLink makes it easy to connect services across different accounts and VPCs to significantly simplify your network architecture.
 
 Interface VPC endpoints support traffic only over TCP. AWS services accept connection requests automatically. The service can't initiate requests to resources in your VPC through the VPC endpoint. The endpoint only returns responses to traffic that was initiated by resources in your VPC.
+
+ExpressRoute is a service that enables you to create private connections between Azure datacenters and infrastructure that's on your premises or in a colocation environment.
