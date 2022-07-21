@@ -96,3 +96,5 @@ AWS PrivateLink provides private connectivity between VPCs, AWS services, and yo
 Interface VPC endpoints support traffic only over TCP. AWS services accept connection requests automatically. The service can't initiate requests to resources in your VPC through the VPC endpoint. The endpoint only returns responses to traffic that was initiated by resources in your VPC.
 
 ExpressRoute is a service that enables you to create private connections between Azure datacenters and infrastructure that's on your premises or in a colocation environment.
+
+GCP Dataflow is a Unified stream and batch data processing that's serverless, fast, and cost-effective. It is a fully managed data processing service and has many other features which you can find on its website here.
