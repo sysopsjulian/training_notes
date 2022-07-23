@@ -98,3 +98,5 @@ Interface VPC endpoints support traffic only over TCP. AWS services accept conne
 ExpressRoute is a service that enables you to create private connections between Azure datacenters and infrastructure that's on your premises or in a colocation environment.
 
 GCP Dataflow is a Unified stream and batch data processing that's serverless, fast, and cost-effective. It is a fully managed data processing service and has many other features which you can find on its website here.
+
+Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically, Compute Engine instances) grouped together to form a cluster.
