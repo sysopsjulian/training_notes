@@ -100,3 +100,5 @@ ExpressRoute is a service that enables you to create private connections between
 GCP Dataflow is a Unified stream and batch data processing that's serverless, fast, and cost-effective. It is a fully managed data processing service and has many other features which you can find on its website here.
 
 Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically, Compute Engine instances) grouped together to form a cluster.
+
+Sticky sessions – Maintaining local session data in an Amazon Elastic Compute Cloud (Amazon EC2) instance to simplify application architecture or to improve application performance, because the instance can maintain or cache the session state information locally.
