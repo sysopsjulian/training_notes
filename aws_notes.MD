@@ -104,3 +104,5 @@ Google Kubernetes Engine (GKE) provides a managed environment for deploying, man
 Sticky sessions – Maintaining local session data in an Amazon Elastic Compute Cloud (Amazon EC2) instance to simplify application architecture or to improve application performance, because the instance can maintain or cache the session state information locally.
 
 Nested stacks are stacks created as part of other stacks. You create a nested stack within another stack by using the AWS::CloudFormation::Stack resource. As your infrastructure grows, common patterns can emerge in which you declare the same components in multiple templates.
+
+A namespace is a way to group services for an application. When you create a namespace, you specify how you want to discover service instances that you register with AWS Cloud Map: using API calls or using DNS queries. You also specify the name that you want your application to use to discover instances.
